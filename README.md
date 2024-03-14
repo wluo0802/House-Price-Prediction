@@ -4,4 +4,4 @@ Boston, a thriving metropolitan city known for its rich history and cultural sig
 
 By analyzing the data, we aim to answer economic questions related to the housing market and explore the real-world application of Python techniques. It is important to note that the dataset has its limitations as it was collected almost 50 years ago, but it still provides an excellent opportunity for us to apply our Python skills and gain insights of housing market.
 
-Authors: Tony Liang, Wanxin Luo
+Authors: Wanxin Luo and Tony Liang
